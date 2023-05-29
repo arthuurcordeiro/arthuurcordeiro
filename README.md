@@ -1,7 +1,13 @@
-# Olá, eu sou Arthur Cordeiro. Seja muito bem vindo(a) a este espaço em construção! 🛠️📚🚀
+# Olá, seja bem vindo(a) ao Maravilhoso mundo de Arthur Cordeiro! 🖥️📚🚀
+#### Aqui você encontrará alguns de meus projetos pessoais e do curso, onde aprimoro meu conhecimento e habilidades de um verdadeiro Dev!🖥️🧡
+
 
 
 ### Dev Web em formação pela <a href="https://www.betrybe.com/" targget="_blank">Trybe</a> 🧑‍💻🖥️🧑‍🎓
+### Apaixonado por tecnologia e jogos 🎮🖥️
+### Entusiasta em Gastronomia 😋👨🏻‍🍳
+### Gateiro 😻😻😻
+### Café ☕️🧡
 
 </div>
   <div align="left" style="display: inline_block"><br>
